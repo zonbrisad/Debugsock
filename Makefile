@@ -1,6 +1,6 @@
 # Hey Emacs, this is a -*- makefile -*-
 #----------------------------------------------------------------------------
-#
+# 
 # Brief:   Library for debugprint via a domainsocket
 # 
 # Name:    Debugsock
